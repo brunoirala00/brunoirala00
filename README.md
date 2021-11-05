@@ -1,12 +1,10 @@
 Olá, meu nome é Bruno Irala. Sou **Desenvolvedor Front-End** em constante aprendizado.
 
-🏷️ **Habilidades**: HTML, CSS, Vue.js, Sass e C#.
-
-💼 **Ferramentas**: VSCode, Visual Studio, Vercel, Git e GitHub.
+🏷️ **Tecnologias**: HTML, JS, Vue.js, CSS, Sass e C#.
 
 🧠 **Conhecimento e experiência com as metodologias ágeis**
 
-✉️ Se você deseja realizar um projeto comigo (ou bater papo), não hesite em me enviar uma mensagem: ⤵️
+✉️ Fico a disposição nos meios de contato abaixo: ⤵️
 
 <p align="left">  
   <a href="https://www.linkedin.com/in/bruno-irala/" alt="Linkedin">
